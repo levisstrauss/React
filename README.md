@@ -1,13 +1,14 @@
 ------------ Getting Started with Create React App ----------->
      
 ------------ Functional --------------------------->                                
-                                                 
+  ```JavaScript                                               
       function App() {
           return (
           <div>Hello World</div>
        )
       }
       export default App;
+```
 
 ------------ Class base component ------------------->
 
